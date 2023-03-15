@@ -16,5 +16,12 @@ module.exports = {
   },
   "features": {
     "storyStoreV7": true
+  },
+  viteFinal: (config, { configType }) => {
+    if (configType === 'PRODUCTIOn') {
+      config.base = '/ignite-ui'
+    }
+
+    return config
   }
 }
