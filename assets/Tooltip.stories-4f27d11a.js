@@ -1,0 +1,2 @@
+import{g as t,a as r,T as i}from"./index-be3753f8.js";import{j as o}from"./jsx-runtime-2f924f52.js";import"./index-232d5228.js";import"./iframe-aca90f95.js";import"./index-d54d7f77.js";const a={title:"Form/Tooltip",component:t,args:{children:o(r,{children:"Tooltip Trigger"}),content:o(i,{children:"This is a toolitp"})},argTypes:{children:{control:{type:null}},content:{control:{type:null}}}},c={},m=["Primary"];export{c as Primary,m as __namedExportsOrder,a as default};
+//# sourceMappingURL=Tooltip.stories-4f27d11a.js.map

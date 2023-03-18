@@ -1,0 +1,2 @@
+import{A as t}from"./index-be3753f8.js";import"./index-232d5228.js";import"./iframe-aca90f95.js";import"./index-d54d7f77.js";import"./jsx-runtime-2f924f52.js";const e={title:"Data display/Avatar",component:t,args:{src:"https://github.com/gabrielvbauer.png",alt:"gabrielvbauer"},argTypes:{src:{control:{type:"text"}}}},p={},c={args:{src:""}},l=["Primary","WithFallback"];export{p as Primary,c as WithFallback,l as __namedExportsOrder,e as default};
+//# sourceMappingURL=Avatar.stories-af603839.js.map
